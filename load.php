@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Welcome to the AWS Tech Fundamentals Bootcamp</title>
+    <title>AWS Tech Fundamentals Bootcamp</title>
     <link href="style.css" media="all" rel="stylesheet" type="text/css" />
   </head>
 
@@ -10,7 +10,7 @@
 
       <?php include('menu.php'); ?>
 
-      <?php include("get-index-meta-data.php"); ?>
+      <?php include('put-cpu-load.php'); ?>
 
       <hr />
 
